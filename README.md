@@ -43,6 +43,7 @@ The system follows this high-level workflow:
 
 ### Outputs
 Output showing the track, i.e the danger zone is being updated every frame, even when the metro arrives, the danger zone basically adjusts itself automatically.
+[](https://youtu.be/Fw6SdLWu3DA)
 ## Models Used
 
 ### YOLOv7 for Person Detection
