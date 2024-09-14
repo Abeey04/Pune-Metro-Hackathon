@@ -93,9 +93,9 @@ This dataset was used to fine-tune both the YOLOv7 and YOLOv5 models for their r
    b. Calculated the intersection between the person polygon and track polygon
 3. If intersection exists, classify as a potential fall event
 
-```
 
-## Results
+
+### Results
 
 [Include information about the system's performance, accuracy, and any metrics from the hackathon evaluation]
 
