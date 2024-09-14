@@ -44,7 +44,7 @@ The system follows this high-level workflow:
 ### Outputs
 Output showing the track, i.e the danger zone is being updated every frame, even when the metro arrives, the danger zone basically adjusts itself automatically:
 [Output 1](https://youtu.be/w5n-f5stuvA)
-[https://github.com/Abeey04/Pune-Metro-Hackathon/blob/bbd9fb8a6d5118b5962606fa092f252ce2e5d038/Outputs/output.gif]
+![](https://github.com/Abeey04/Pune-Metro-Hackathon/blob/bbd9fb8a6d5118b5962606fa092f252ce2e5d038/Outputs/output.gif)
 ## Models Used
 
 ### YOLOv7 for Person Detection
