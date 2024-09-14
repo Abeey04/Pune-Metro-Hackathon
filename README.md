@@ -95,10 +95,6 @@ This dataset was used to fine-tune both the YOLOv7 and YOLOv5 models for their r
 
 
 
-### Results
-
-[Include information about the system's performance, accuracy, and any metrics from the hackathon evaluation]
-
 ## Future Improvements
 
 1. Implement real-time processing for live video feeds
@@ -106,6 +102,7 @@ This dataset was used to fine-tune both the YOLOv7 and YOLOv5 models for their r
 3. Integrate with metro station alarm systems
 4. Develop a user interface for security personnel
 5. Explore the use of 3D sensors for more accurate depth perception
+6. To integrate yet another model to detect the pose of the persons and hence to see if they are leaning towards the track and are about to fall : [Pose model](https://youtu.be/Fw6SdLWu3DA?si=ZksW9CbW2kfWlFlb)
 
 ## License
 
