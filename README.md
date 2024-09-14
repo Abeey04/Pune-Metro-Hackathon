@@ -103,7 +103,7 @@ This dataset was used to fine-tune both the YOLOv7 and YOLOv5 models for their r
 4. Develop a user interface for security personnel
 5. Explore the use of 3D sensors for more accurate depth perception
 6. To integrate yet another model to detect the pose of the persons and hence to see if they are leaning towards the track and are about to fall :
-   
+   ![](https://github.com/Abeey04/Pune-Metro-Hackathon/blob/2a132a93bef89273f64900ad69b9359e1b06ca00/Outputs/output2.gif)
    [Pose model](https://youtu.be/Fw6SdLWu3DA?si=ZksW9CbW2kfWlFlb)
 
 ## License
